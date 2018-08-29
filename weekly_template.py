@@ -4,11 +4,11 @@ from pyexcel_xlsx import save_data
 import xlrd
 import pymysql.cursors
 import os
-DB_HOST = "139.196.153.85"
-DB_PORT = 3306
-DB_USER = "szroot"
-DB_PASSWORD = "Eh3NgmyzxxhhohFq"
-DB_NAME = "asgard_syn"
+DB_HOST = "***.**.**.*8"
+DB_PORT =222
+DB_USER = "222"
+DB_PASSWORD = "222"
+DB_NAME = "222"
 
 # Main routine
 # 写Excel数据, xls格式,以sheet为单位
